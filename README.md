@@ -1,4 +1,4 @@
-# Cat-and-Dog-Image-ClassifierPassed
+# Cat-and-Dog-Image-Classifier
 For this challenge, you will use TensorFlow 2.0 and Keras to create a convolutional neural network that correctly classifies images of cats and dogs with at least 63% accuracy.
 
 Some of the code is given to you but some code you must fill in to complete this challenge. Read the instruction in each text cell so you will know what you have to do in each code cell.
