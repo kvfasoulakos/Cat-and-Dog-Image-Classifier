@@ -6,5 +6,5 @@ Some of the code is given to you but some code you must fill in to complete this
 The first code cell imports the required libraries. The second code cell downloads the data and sets key variables. The third cell is the first place you will write your own code.
 
 
-You may open the <i>jupyter notebook</i> via <b> Google Colab </b>.
+You may open the <i>jupyter notebook</i> via <b> Google Colab</b>.
 
